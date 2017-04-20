@@ -28,7 +28,7 @@
       "img": "number-1.png",
       "name": "Widget 1",
       "description": "This is a description",
-      "featured": false
+      "featured": true
     },
     {
       "id": 2,
@@ -42,7 +42,7 @@
       "img": "number-3-icon.png",
       "name": "Widget 3",
       "description": "This is a lovely widget",
-      "featured": true
+      "featured": false
     }
   ]
 }

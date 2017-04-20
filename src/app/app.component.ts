@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'Angular 2 REST Website';
   links = {
     items: ['/items'],
-    widgets: ['/widgets']
+    widgets: ['/widgets'],
+    students : ['/students']
   };
 }

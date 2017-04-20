@@ -15,6 +15,7 @@ import { WidgetsComponent } from './widgets/widgets.component';
 import { WidgetsListComponent } from './widgets/widgets-list/widgets-list.component';
 import { WidgetDetailComponent } from './widgets/widget-detail/widget-detail.component';
 import { FeaturedWidgetComponent } from './widgets/featured-widget/featured-widget.component';
+import { StudentsComponent } from './students/students.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { FeaturedWidgetComponent } from './widgets/featured-widget/featured-widg
     WidgetsComponent,
     WidgetsListComponent,
     WidgetDetailComponent,
-    FeaturedWidgetComponent
+    FeaturedWidgetComponent,
+    StudentsComponent
   ],
   imports: [
     BrowserModule,
